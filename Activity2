@@ -1,0 +1,15 @@
+<!doctype html>
+<html> 
+<head>
+ <title></title>
+</head>
+<body>
+<p>This is the list of different website</p>
+<ul>
+ <li>Social meadia</li>
+ <li>Wikis</li>
+ <li>Shopping</li>
+ <li>Publishing</li>
+</ul>
+</body>
+</html>
